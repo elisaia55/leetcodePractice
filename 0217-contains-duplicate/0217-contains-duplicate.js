@@ -4,7 +4,8 @@
  */
 var containsDuplicate = function(nums) {
     let newSet = new Set(nums);
-    let isValid = newSet.size === nums.length;
+    let isInvalid = newSet.size !== nums.length; 
 
-    return !isValid
+    return isInvalid 
+
 };
