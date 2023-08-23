@@ -5,7 +5,7 @@ class Solution:
         
         for n in nums:
             if (n - 1) not in new_set:
-                length = 0 
+                length = 1 
                 while (n + length) in new_set:
                     length += 1
                 longest_seq = max(length, longest_seq)
