@@ -18,7 +18,7 @@
 ### 3. Stacks and Queues:
 - **Look for**: Balancing symbols, basic algorithms, LIFO/FIFO structures, tracking maximum elements.
 - **Example**: "Validate Parentheses."
-- **Detailed Insights**: 
+- **Detailed Insights**:  
   - Stacks are useful for balancing and tracking previous states.
   - Queues help in breadth-first traversal or maintaining order.
 - **Common Pitfalls**: Confusing when to use stack vs queue; forgetting to handle underflow/overflow.
