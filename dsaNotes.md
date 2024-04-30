@@ -6,7 +6,7 @@
   - Beware of off-by-one errors and duplicates.
   - Consider space complexity in solutions.
 - **Common Pitfalls**: Thinking you need a complex structure; overlooking edge cases; time complexity issues with nested loops.
-
+ 
 ### 2. Linked Lists:
 - **Look for**: Reversal, middle element, cycle detection, merging sorted lists.
 - **Example**: "Reverse a Linked List."
